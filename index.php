@@ -26,7 +26,7 @@ echo "<pre>";
 	//	echo $arrResult->Autokey;
 
 	}
-
+ 
 /*
 
 	$user2=DB::getInstance()->insert("Users", array(
